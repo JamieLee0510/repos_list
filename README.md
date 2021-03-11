@@ -1,5 +1,11 @@
 # git_repo_inifinite_scoll
 
+
+## Project Description：
+```
+利用Github API 列出自己的 GitHub public repo （title、link、updated date、description）
+手刻  Infinite Scroll 功能
+```
 ## Project setup
 ```
 npm install
